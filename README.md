@@ -1,5 +1,4 @@
-### Hi there 👋
-![FayalaMohamed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FayalaMohamed&hide=jupyter%20notebook&langs_count=10&theme=dark&layout=compact)
+
 
 # 💫 About Me:
 I'm a CS engineering student at INSA Lyon, France
@@ -15,7 +14,8 @@ I'm a CS engineering student at INSA Lyon, France
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FayalaMohamed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FayalaMohamed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+<!--
+![FayalaMohamed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FayalaMohamed&hide=jupyter%20notebook&langs_count=10&theme=dark&layout=compact)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
