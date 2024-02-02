@@ -15,8 +15,7 @@ I'm a CS engineering student at INSA Lyon, France
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FayalaMohamed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FayalaMohamed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FayalaMohamed&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
