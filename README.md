@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm a CS engineering student at INSA Lyon, France
+I'm a CS engineering student at Georgia Tech, USA and INSA Lyon, France
 
 
 ## 🌐 Socials:
